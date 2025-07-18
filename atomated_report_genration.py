@@ -13,8 +13,8 @@ from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.lib.units import mm
 
 # === CONFIG ===
-CSV_FILE = "mobile_phone_sales_data.csv"
-PDF_FILE = "mobile_phone_sales_report.pdf"
+CSV_FILE = "F:\Sem 5\Intership\Task 2\mobile_phone_sales_data.csv"
+PDF_FILE = "F:\Sem 5\Intership\Task 2\mobile_phone_sales_report.pdf"
 CHART1 = "top_brands.png"
 CHART2 = "avg_price_brand.png"
 CHART3 = "ram_vs_storage_heatmap.png"
