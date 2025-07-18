@@ -105,3 +105,4 @@ This project effectively demonstrates practical use of Python in data analytics 
 
 Output
 
+[mobile_phone_sales_report.pdf](https://github.com/user-attachments/files/21314714/mobile_phone_sales_report.pdf)
